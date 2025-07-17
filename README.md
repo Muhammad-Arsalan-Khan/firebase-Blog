@@ -23,4 +23,4 @@ A simple and modern blog application built using **HTML**, **CSS**, and **JavaSc
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blog-app.git
+git clone https://github.com/Muhammad-Arsalan-Khan/firebase-Blog.git
